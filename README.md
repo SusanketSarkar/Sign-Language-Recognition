@@ -1,2 +1,4 @@
-# Sign-Language-Recognition
-&lt;h1 align='center'>Sign Language Recognition&lt;/h1>
+<h1 align='center'>Sign Language Recognition</h1>
+<h3>The goal of the project was to build a sign language interpreter using live video feed from the camera .</h3>
+<p align='center'><img src=''></p>
+
